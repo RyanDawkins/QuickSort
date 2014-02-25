@@ -1,0 +1,10 @@
+Author: Ryan Dawkins
+
+Running/Compiling:
+There are scripts given to compile and run the project.
+
+Info:
+This project was written using the emacs text editor and uses the GNU spacing standard. 
+
+Cloning from GitHub:
+git clone https://github.com/RyanDawkins/QuickSort.git

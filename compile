@@ -1,0 +1,4 @@
+printf "\n=============\nProgram 1\n=============\n"
+printf "\nCompiling project\tWorking..."
+javac src/com/ryanddawkins/datastructures/program1/*.java -d bin
+printf "\b\b\b\b\b\b\b\b\b\bFinished! \n\n"
